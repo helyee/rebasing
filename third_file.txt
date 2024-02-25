@@ -3,3 +3,6 @@ Third file a welcome
 
 
 ANother change
+This change are made in when HEAD points to feature1 branch, but I will 
+checkout to main and stage it in main
+Seems I can't do it, git ask to commit changes before I can checkout to main branch
